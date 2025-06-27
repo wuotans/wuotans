@@ -112,20 +112,19 @@
 
 <br>
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=798790&center=true&vCenter=true&width=900&lines=📬 Contato">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=798790&center=true&vCenter=true&width=900&lines=📬 Contato">
 </div>
-<div align="center">
-<br>
 
 <div align="center">
   <a href="https://github.com/wuotans">
     <img src="https://img.shields.io/badge/GitHub-Wuotans-8A2BE2?style=for-the-badge&logo=github">
   </a>
-  <a href="https://www.linkedin.com/in/matheus-patryck-5a1398106/" target="_blank">
+  <a href="https://www.linkedin.com/in/matheus-patryck-5a1398106/">
     <img src="https://img.shields.io/badge/LinkedIn-Matheus%20Patryck-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <div align="center">
+</div>
+
+<div align="center">
   <img src="https://i.pinimg.com/originals/3d/bd/c5/3dbdc5948be0594c2ac2920af9f7fad3.gif" width="900">
-  </div>
 </div>
 
