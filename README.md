@@ -61,12 +61,12 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=fefefe&center=true&vCenter=true&width=900&lines=🛠️ Ferramentas">
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW1tZ2F1YzR3dWl1bDNhZ2NtM2NxM2s4d3BnbzI4eGQwczB4aGxwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKsQ8UQ4l4LhG8o/giphy.gif" width="80" title="Docker">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW1tZ2F1YzR3dWl1bDNhZ2NtM2NxM2s4d3BnbzI4eGQwczB4aGxwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKsQ8UQ4l4LhG8o/giphy.gif" width="80" title="Kubernetes">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW1tZ2F1YzR3dWl1bDNhZ2NtM2NxM2s4d3BnbzI4eGQwczB4aGxwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKsQ8UQ4l4LhG8o/giphy.gif" width="80" title="GitHub">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW1tZ2F1YzR3dWl1bDNhZ2NtM2NxM2s4d3BnbzI4eGQwczB4aGxwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKsQ8UQ4l4LhG8o/giphy.gif" width="80" title="GitLab">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW1tZ2F1YzR3dWl1bDNhZ2NtM2NxM2s4d3BnbzI4eGQwczB4aGxwciZlcD12MV9pbnRlcm5albF9naWZfYnlfaWQmY3Q9Zw/3o7TKsQ8UQ4l4LhG8o/giphy.gif" width="80" title="Grafana">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW1tZ2F1YzR3dWl1bDNhZ2NtM2NxM2s4d3BnbzI4eGQwczB4aGxwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKsQ8UQ4l4LhG8o/giphy.gif" width="80" title="Prometheus">
+  <img src="https://i.pinimg.com/originals/f5/5e/80/f55e8059ea945abfd6804b887dd4a0af.gif" width="80" title="Docker">
+  <img src="https://accuknox.com/wp-content/uploads/kubernetes-hero-animation.gif" width="80" title="Kubernetes">
+  <img src="https://media.giphy.com/avatars/mwooodward/cIe5MvDvX4Vc.gif" width="80" title="GitHub">
+  <img src="https://gitlab.com/uploads/-/system/project/avatar/37453574/logo.gif" width="80" title="GitLab">
+  <img src="https://raw.githubusercontent.com/DiptoChakrabarty/DiptoChakrabarty/master/assets/grafana.gif" width="80" title="Grafana">
+  <img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8e7a926b-5504-433d-a177-d0d2eb2e90ec_427x467.gif" width="80" title="Prometheus">
 </div>
 
 <br></br>
@@ -75,12 +75,12 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW1tZ2F1YzR3dWl1bDNhZ2NtM2NxM2s4d3BnbzI4eGQwczB4aGxwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKsQ8UQ4l4LhG8o/giphy.gif" width="100" title="Debian">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW1tZ2F1YzR3dWl1bDNhZ2NtM2NxM2s4d3BnbzI4eGQwczB4aGxwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKsQ8UQ4l4LhG8o/giphy.gif" width="100" title="Ubuntu">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW1tZ2F1YzR3dWl1bDNhZ2NtM2NxM2s4d3BnbzI4eGQwczB4aGxwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKsQ8UQ4l4LhG8o/giphy.gif" width="100" title="Windows">
+  <img src="https://blog.desdelinux.net/wp-content/uploads/2011/07/logo_debian.gif" width="90" title="Debian">
+  <img src="https://ubuntucommunity.s3.us-east-2.amazonaws.com/original/2X/e/ed843b9c2fd84a44bc0ae856bdc45398185d94ad.gif" width="185" title="Ubuntu">
+  <img src="https://cdn.dribbble.com/userupload/21676836/file/original-5879c9634e16e3a53f90e2fd5d09faa4.gif" width="160" title="Windows">
 </div>
 
-<br></br>
+<!-- <br></br>
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=fefefe&center=true&vCenter=true&width=900&lines=🏆 Projetos">
 </div>
@@ -94,32 +94,35 @@
     *Portfólio pessoal com sistema de CI/CD integrado e design responsivo.*
 </div>
 
+<br>
+<br>
 <div align="center">
 
 💰 [MoneyFlow](https://github.com/wuotans/MoneyFlow)
-    <div align="center">[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-    [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-    [![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)](https://airflow.apache.org/)
-    [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+    <div align="center">
+    [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+    [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
+    [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)
     </div>
     📜 Descrição <br>
     *Sistema de gestão financeira com análise preditiva e relatórios automatizados.*
 </div>
 
+<br>
+<br>
+<div align="center">
 
-### 🏬 [Gabriele Papelaria](https://github.com/wuotans/gabriele-papelaria-sistema)
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGc0bm5pZ2N5aGt0M3YwNWp1eWl5a3I1d3N1dGx1bGxqZDNpZzYxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2yP1jOv7eJ4W3vZx7C/giphy.gif" width="300" align="right">
+🏬 [Gabriele Papelaria](https://github.com/wuotans/gabriele-papelaria)
+    <div align="center">
+    [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
+    </div>
+    📜 Descrição <br>
+    *Site simples para papelaria*
+</div>
 
-> **Castelo Mercantil**  
-> Django + React + MySQL  
-> *"Um reino precisa de administração eficiente!"*
-
-<details>
-<summary>📜 Descrição da Missão</summary>
-ERP completo para papelaria com módulos de estoque, vendas e RH. Domine seu negócio como um verdadeiro monarca.
-</details>
-
----
+<br>
+<br>
+<div align="center">
 
 ### 📧 [EmailMasterPT](https://github.com/wuotans/emailmasterpt)
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGc0bm5pZ2N5aGt0M3YwNWp1eWl5a3I1d3N1dGx1bGxqZDNpZzYxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2yP1jOv7eJ4W3vZx7C/giphy.gif" width="300" align="left">
@@ -135,7 +138,7 @@ Sistema de automação de emails com templates dinâmicos e analytics. Suas mens
 
 <br clear="both">
 
----
+
 
 ### 🔌 [DBConnector](https://github.com/wuotans/dbconnector)
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGc0bm5pZ2N5aGt0M3YwNWp1eWl5a3I1d3N1dGx1bGxqZDNpZzYxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2yP1jOv7eJ4W3vZx7C/giphy.gif" width="300" align="right">
@@ -147,58 +150,75 @@ Sistema de automação de emails com templates dinâmicos e analytics. Suas mens
 <details>
 <summary>📜 Descrição da Missão</summary>
 Biblioteca universal para conexão com múltiplos bancos de dados com suporte a failover e pooling. Sua chave mestra para o multiverso dos dados.
-</details>
+</details> -->
 
----
 
-### 🖨️ [Sistema Papelaria](https://github.com/wuotans/gabriele-papelaria)
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGc0bm5pZ2N5aGt0M3YwNWp1eWl5a3I1d3N1dGx1bGxqZDNpZzYxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2yP1jOv7eJ4W3vZx7C/giphy.gif" width="300" align="left">
+<!-- <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/?username=Wuotans&show_icons=true&count_private=true&rank_icon=github&theme=dark&font=Iosevka" width="42%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wuotans&layout=compact&font=Iosevka&langs_count=16&theme=dark" width="22%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wuotans&theme=dark" width="22%">
+</div> -->
 
-> **Arsenal Mercantil**  
-> Django + PostgreSQL + Docker  
-> *"Equipamentos de qualidade para toda jornada!"*
 
-<details>
-<summary>📜 Descrição da Missão</summary>
-Sistema de gestão para papelaria com controle de inventário e vendas. Mantenha seu arsenal sempre abastecido.
-</details>
 
-<br clear="both">
 
----
-
-## 📊 Estatísticas de Batalha
+<br>
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=fefefe&center=true&vCenter=true&width=900&lines=🧩 Stats">
+</div>
+<div align="center">
+<br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wuotans&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wuotans&layout=compact&theme=dark&bg_color=0d1117&hide_border=true" width="48%">
+  <br>  
+  <img
+    height=190
+    align="center"
+    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api/?username=Wuotans&show_icons=true&count_private=true&rank_icon=github&theme=dark&font=Iosevka"
+  />
+  <img
+    height=190
+    align="center"
+    alt="Top Language"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=wuotans&layout=compact&font=Iosevka&langs_count=16&theme=dark"
+  />
+  <br>
+  <br>
+  <img
+    align="center"
+    alt="Top Language"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wuotans&theme=dark"
+  />
+  <br>
+  <br>
+  <img
+    height=154
+    align="center"
+    alt="Top Language"
+    src="https://github-readme-streak-stats.herokuapp.com?user=wuotans&theme=dark&card_width=885"
+  />
+  </div>
+
+
+<br>
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=fefefe&center=true&vCenter=true&width=900&lines=📬 Contato">
 </div>
+<div align="center">
+<br>
 
----
-
-## 🌌 Domínios de Conhecimento
-```mermaid
-graph LR
-S[System] --> D[Dungeons = Kubernetes]
-S --> M[Monsters = Bugs]
-S --> H[Hunter = Dev]
-H -->|Derrota| M
-D -->|Abrir| P[Portais = Docker]
-```
-
-## 📬 Contato do Caçador
 <div align="center">
   <a href="https://github.com/wuotans">
     <img src="https://img.shields.io/badge/GitHub-Wuotans-8A2BE2?style=for-the-badge&logo=github">
   </a>
-  <a href="https://gitlab.com/wuottans">
-    <img src="https://img.shields.io/badge/GitLab-Wuottans-FF6C37?style=for-the-badge&logo=gitlab">
+  <a href="https://www.linkedin.com/in/matheus-patryck-5a1398106/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Matheus%20Patryck-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGc0bm5pZ2N5aGt0M3YwNWp1eWl5a3I1d3N1dGx1bGxqZDNpZzYxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2yP1jOv7eJ4W3vZx7C/giphy.gif" width="300">
-  <p><em>"Um dia, vou ser o caçador mais forte!" - Sung Jin-Woo</em></p>
+  <img src="https://i.pinimg.com/originals/3d/bd/c5/3dbdc5948be0594c2ac2920af9f7fad3.gif">
 </div>
 
 <details>
