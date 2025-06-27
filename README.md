@@ -12,7 +12,7 @@
 <br></br>
 
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=798790&center=true&vCenter=true&width=900&lines=🔮 Linguagens">
+    <img src="svg/linguaens.svg">
 </div>
 <div align="center">
   <img src="https://assets-v2.lottiefiles.com/a/62e02bc6-116f-11ee-aeb0-077c335b3c67/XpwfUikILP.gif" width="100" title="Python">
@@ -23,7 +23,7 @@
 
 <br></br>
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=798790&center=true&vCenter=true&width=900&lines=⚔️ Frameworks">
+    <img src="svg/Frameworks.svg">
 </div>
 
 <div align="center">
@@ -38,7 +38,7 @@
 
 <br></br>
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=798790&center=true&vCenter=true&width=900&lines=🏰 Bancos de Dados">
+    <img src="svg/bancodedados.svg">
 </div>
 
 <div align="center">
@@ -49,7 +49,7 @@
 
 <br></br>
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=798790&center=true&vCenter=true&width=900&lines=🛠️ Ferramentas">
+    <img src="svg/ferramentas.svg">
 </div>
 <div align="center">
   <img src="https://i.pinimg.com/originals/f5/5e/80/f55e8059ea945abfd6804b887dd4a0af.gif" width="80" title="Docker">
@@ -62,7 +62,7 @@
 
 <br></br>
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=798790&center=true&vCenter=true&width=900&lines=🖥️ Servidores">
+    <img src="svg/servidoressvg.svg">
 </div>
 
 <div align="center">
@@ -73,7 +73,7 @@
 
 <br>
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=798790&center=true&vCenter=true&width=900&lines=🧩 Stats">
+    <img src="svg/stats.svg">
 </div>
 <div align="center">
 <br>
@@ -112,7 +112,7 @@
 
 <br>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=798790&center=true&vCenter=true&width=900&lines=📬 Contato">
+  <img src="svg/contato.svg">
 </div>
 
 <div align="center">
@@ -125,6 +125,6 @@
 </div>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/3d/bd/c5/3dbdc5948be0594c2ac2920af9f7fad3.gif" width="900">
+  <img src="svg/solo.gif" width="900">
 </div>
 
