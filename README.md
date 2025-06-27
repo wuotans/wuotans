@@ -220,6 +220,7 @@ Biblioteca universal para conexão com múltiplos bancos de dados com suporte a 
   <img src="https://i.pinimg.com/originals/3d/bd/c5/3dbdc5948be0594c2ac2920af9f7fad3.gif" width="900">
 </div>
 
+<!--
 <details>
 <summary>🌐 English Version</summary>
 
@@ -231,4 +232,4 @@ Biblioteca universal para conexão com múltiplos bancos de dados com suporte a 
 - [Universal DBConnector](https://github.com/wuotans/dbconnector)
 - [Stationery Management System](https://github.com/wuotans/gabriele-papelaria)
 
-</details>
+</details> -->
