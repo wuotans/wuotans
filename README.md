@@ -217,7 +217,7 @@ Biblioteca universal para conexão com múltiplos bancos de dados com suporte a 
 </div>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/3d/bd/c5/3dbdc5948be0594c2ac2920af9f7fad3.gif">
+  <img src="https://i.pinimg.com/originals/3d/bd/c5/3dbdc5948be0594c2ac2920af9f7fad3.gif" width="900">
 </div>
 
 <details>
