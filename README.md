@@ -1,8 +1,7 @@
 <!-- Cabeçalho Épico com GIF Animado -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=102b79"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=8fc3e3"/>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=41428a&center=true&vCenter=true&width=900&lines=⚡Wuotans⚡;Dev+Fullstack+e+DevOps;Seja+bem-vindo!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=fefefe&center=true&vCenter=true&width=900&lines=⚡Wuotans⚡;Fullstack+e+DevOps;Seja+bem-vindo!" />
 </div>
 
 <div align="center">
@@ -10,15 +9,20 @@
 </div>
 
 
+<br></br>
 <!-- Barra de Status com Animações -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXB3OG40MTZqOGFldzBvbDRzcG5qdHZxaGFla2ExbzcxNXBpMmFibCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif" width="80">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzV0MGhoZnJmdHV2cDQyOWcyNWZheDBjcmppNnA4azM3MzFlczdneiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="80">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDE4Z2YxZzRreHI1bWo0MWhmc2k0ZzdqYnlydzQydzVmZzQ3aHkyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ROlbnsc7aCIL6Icq6h/giphy.gif" width="80">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWR1b2p3eHBzcTBsdTBjemgxYzBkazh5ZGp0bDRmZjIyaGg4ZW41ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Z3VgQu8hkVeB1bakS9/giphy.gif" width="80">
-</div>
+</div> -->
 
-### 🔮 Linguagens
+
+
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=fefefe&center=true&vCenter=true&width=900&lines=🔮 Linguagens">
+</div>
 <div align="center">
   <img src="https://assets-v2.lottiefiles.com/a/62e02bc6-116f-11ee-aeb0-077c335b3c67/XpwfUikILP.gif" width="100" title="Python">
   <img src="https://media.licdn.com/dms/image/v2/D5622AQGl6RjAtCbIbw/feedshare-shrink_800/feedshare-shrink_800/0/1681191300659?e=2147483647&v=beta&t=-l1SSej1QADc4hw-KvNm-U8MiXjTuHhOQI1QiKc3nDM" width="100" title="PHP">
@@ -26,24 +30,36 @@
   <img src="https://media.tenor.com/16OA1pbdWYYAAAAM/typehero-typescript.gif" width="100" title="TypeScript">
 </div>
 
-### ⚔️ Frameworks
+<br></br>
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=fefefe&center=true&vCenter=true&width=900&lines=⚔️ Frameworks">
+</div>
+
 <div align="center">
   <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="100" title="React">
-  <img src="https://media.giphy.com/media/S8rEAbtG4WA1GgK3sI/giphy.gif" width="100" title="Next.js">
-  <img src="https://media.giphy.com/media/j5iAw6T8txfCEb7Qq4/giphy.gif" width="100" title="Django">
-  <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="100" title="Selenium">
-  <img src="https://media.giphy.com/media/3o7TKsQ8UQ4l4LhG8o/giphy.gif" width="100" title="Pandas">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW1qN2p5eGZ0b3F1dHd6YzQwY3Q5Z3Y5dTd6aG9yZ2h1a2FpbmV6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKsQ8UQ4l4LhG8o/giphy.gif" width="100" title="Airflow">
+  <img src="https://allma.si/blog/wp-content/uploads/2020/12/nextjs-app.gif" width="100" title="Next.js">
+  <img src="https://maxmautner.com/public/images/django.gif" width="100" title="Django">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" width="73" title="Selenium">
+  <img src="https://miro.medium.com/v2/resize:fit:300/0*IeKuNMsyN2vPzJFp.png" width="90" title="Pandas">
+  <img src="https://airflow.apache.org/docs/apache-airflow/1.10.6/_images/pin_large.png" width="80" title="Airflow">
 </div>
 
-### 🏰 Bancos de Dados
+
+<br></br>
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzF1ZGl2dDk2dmMxY3F3aGd5dGt1ZzZ1dTg0bW5tMWI3eHd3d2l5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j5iAw6T8txfCEb7Qq4/giphy.gif" width="100" title="PostgreSQL">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTg5c2I4c3V5b3NucGp6aXl3b2d6dHlqM2x6dG5mY2xydzRqZW1lbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKsQ8UQ4l4LhG8o/giphy.gif" width="100" title="MySQL">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3F2cW9wZGp4M3ZvY2h0dDd3eG5zZTF6a2JwNHV0aTQ1eG1sM2N5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKsQ8UQ4l4LhG8o/giphy.gif" width="100" title="MongoDB">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=fefefe&center=true&vCenter=true&width=900&lines=🏰 Bancos de Dados">
 </div>
 
-### 🛠️ Ferramentas
+<div align="center">
+  <img src="https://images.ctfassets.net/6yom6slo28h2/fJUJrqHAzWweaJZvNXgWS/446631a4e2f0cc825292c982c12e173a/postgresql.jpg" width="100" title="PostgreSQL">
+  <img src="https://codigofacil.com.br/wp-content/uploads/2025/03/mysql-imagem.jpg" width="130" title="MySQL">
+  <img src="https://media.licdn.com/dms/image/v2/D4D12AQETgv5fMiYEXA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1677609185621?e=2147483647&v=beta&t=Ora_YKTAmDz3efeDirq2YQ7INd_unqaFZ13TheQc_60" width="108" title="MongoDB">
+</div>
+
+<br></br>
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=fefefe&center=true&vCenter=true&width=900&lines=🛠️ Ferramentas">
+</div>
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW1tZ2F1YzR3dWl1bDNhZ2NtM2NxM2s4d3BnbzI4eGQwczB4aGxwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKsQ8UQ4l4LhG8o/giphy.gif" width="80" title="Docker">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW1tZ2F1YzR3dWl1bDNhZ2NtM2NxM2s4d3BnbzI4eGQwczB4aGxwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKsQ8UQ4l4LhG8o/giphy.gif" width="80" title="Kubernetes">
@@ -53,7 +69,11 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW1tZ2F1YzR3dWl1bDNhZ2NtM2NxM2s4d3BnbzI4eGQwczB4aGxwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKsQ8UQ4l4LhG8o/giphy.gif" width="80" title="Prometheus">
 </div>
 
-### 🖥️ Servidores
+<br></br>
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=fefefe&center=true&vCenter=true&width=900&lines=🖥️ Servidores">
+</div>
+
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW1tZ2F1YzR3dWl1bDNhZ2NtM2NxM2s4d3BnbzI4eGQwczB4aGxwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKsQ8UQ4l4LhG8o/giphy.gif" width="100" title="Debian">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW1tZ2F1YzR3dWl1bDNhZ2NtM2NxM2s4d3BnbzI4eGQwczB4aGxwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKsQ8UQ4l4LhG8o/giphy.gif" width="100" title="Ubuntu">
