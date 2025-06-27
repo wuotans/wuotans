@@ -10,15 +10,6 @@
 
 
 <br></br>
-<!-- Barra de Status com Animações -->
-<!-- <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXB3OG40MTZqOGFldzBvbDRzcG5qdHZxaGFla2ExbzcxNXBpMmFibCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif" width="80">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzV0MGhoZnJmdHV2cDQyOWcyNWZheDBjcmppNnA4azM3MzFlczdneiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="80">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDE4Z2YxZzRreHI1bWo0MWhmc2k0ZzdqYnlydzQydzVmZzQ3aHkyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ROlbnsc7aCIL6Icq6h/giphy.gif" width="80">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWR1b2p3eHBzcTBsdTBjemgxYzBkazh5ZGp0bDRmZjIyaGg4ZW41ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Z3VgQu8hkVeB1bakS9/giphy.gif" width="80">
-</div> -->
-
-
 
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=798790&center=true&vCenter=true&width=900&lines=🔮 Linguagens">
@@ -80,86 +71,6 @@
   <img src="https://cdn.dribbble.com/userupload/21676836/file/original-5879c9634e16e3a53f90e2fd5d09faa4.gif" width="160" title="Windows">
 </div>
 
-<!-- <br></br>
-<div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=fefefe&center=true&vCenter=true&width=900&lines=🏆 Projetos">
-</div>
-<div align="center">
-   
-    
-🔥 [Portfólio Matheus-Silva](https://github.com/wuotans/Matheus-Silva)<br>
-    <div align="center">[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
-    </div>
-    📜 Descrição <br>
-    *Portfólio pessoal com sistema de CI/CD integrado e design responsivo.*
-</div>
-
-<br>
-<br>
-<div align="center">
-
-💰 [MoneyFlow](https://github.com/wuotans/MoneyFlow)
-    <div align="center">
-    [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-    [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
-    [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)
-    </div>
-    📜 Descrição <br>
-    *Sistema de gestão financeira com análise preditiva e relatórios automatizados.*
-</div>
-
-<br>
-<br>
-<div align="center">
-
-🏬 [Gabriele Papelaria](https://github.com/wuotans/gabriele-papelaria)
-    <div align="center">
-    [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
-    </div>
-    📜 Descrição <br>
-    *Site simples para papelaria*
-</div>
-
-<br>
-<br>
-<div align="center">
-
-### 📧 [EmailMasterPT](https://github.com/wuotans/emailmasterpt)
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGc0bm5pZ2N5aGt0M3YwNWp1eWl5a3I1d3N1dGx1bGxqZDNpZzYxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2yP1jOv7eJ4W3vZx7C/giphy.gif" width="300" align="left">
-
-> **Mensageiro das Sombras**  
-> JavaScript + Node.js + MongoDB  
-> *"Comunicações instantâneas através das dimensões!"*
-
-<details>
-<summary>📜 Descrição da Missão</summary>
-Sistema de automação de emails com templates dinâmicos e analytics. Suas mensagens chegam mais rápido que um portal dimensional.
-</details>
-
-<br clear="both">
-
-
-
-### 🔌 [DBConnector](https://github.com/wuotans/dbconnector)
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGc0bm5pZ2N5aGt0M3YwNWp1eWl5a3I1d3N1dGx1bGxqZDNpZzYxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2yP1jOv7eJ4W3vZx7C/giphy.gif" width="300" align="right">
-
-> **Chave Dimensional**  
-> Python + SQLAlchemy + Prometheus  
-> *"Conecte-se a qualquer reino de dados!"*
-
-<details>
-<summary>📜 Descrição da Missão</summary>
-Biblioteca universal para conexão com múltiplos bancos de dados com suporte a failover e pooling. Sua chave mestra para o multiverso dos dados.
-</details> -->
-
-
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=Wuotans&show_icons=true&count_private=true&rank_icon=github&theme=dark&font=Iosevka" width="42%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wuotans&layout=compact&font=Iosevka&langs_count=16&theme=dark" width="22%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wuotans&theme=dark" width="22%">
-</div> -->
-
-
 <br>
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=798790&center=true&vCenter=true&width=900&lines=🧩 Stats">
@@ -218,18 +129,3 @@ Biblioteca universal para conexão com múltiplos bancos de dados com suporte a 
   </div>
 </div>
 
-
-
-<!--
-<details>
-<summary>🌐 English Version</summary>
-
-### 🔥 Highlighted Projects
-- [Matheus-Silva Portfolio](https://github.com/wuotans/Matheus-Silva)
-- [MoneyFlow Financial System](https://github.com/wuotans/MoneyFlow)
-- [Gabriele Papelaria ERP](https://github.com/wuotans/gabriele-papelaria-sistema)
-- [EmailMasterPT Automation](https://github.com/wuotans/emailmasterpt)
-- [Universal DBConnector](https://github.com/wuotans/dbconnector)
-- [Stationery Management System](https://github.com/wuotans/gabriele-papelaria)
-
-</details> -->
