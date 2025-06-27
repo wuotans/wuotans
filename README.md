@@ -12,7 +12,7 @@
 <br></br>
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=798790&center=true&vCenter=true&width=900&lines=🔮 Linguagens">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=fefefe&center=true&vCenter=true&width=900&lines=🔮 Linguagens">
 </div>
 <div align="center">
   <img src="https://assets-v2.lottiefiles.com/a/62e02bc6-116f-11ee-aeb0-077c335b3c67/XpwfUikILP.gif" width="100" title="Python">
