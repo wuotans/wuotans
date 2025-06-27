@@ -1,28 +1,24 @@
 <!-- Cabeçalho Épico com GIF Animado -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=102b79"/>
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGc0bm5pZ2N5aGt0M3YwNWp1eWl5a3I1d3N1dGx1bGxqZDNpZzYxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2yP1jOv7eJ4W3vZx7C/giphy.gif" width="100%">
-  <h1>⚡ Matheus Silva (Wuotans) ⚡</h1>
-  <p><em>"Aqueles que continuam avançando... alcançarão a resposta!" - Sung Jin-Woo</em></p>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=41428a&width=900&size=21&center=true&lines=⚡Wuotans⚡;I+am+from+Brazil;Be+welcome!" alt="Typing SVG"width="100%"/> 
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjZ0cXkxcDEwMHZneDlwbTBxbDRucXg5Z2JsaDd2OXdocXVxOGNsZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ramBbsu5kGc8AJHd1h/giphy.gif" width="30%">
 </div>
 
 <!-- Barra de Status com Animações -->
 <div align="center">
-  <img src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" width="80">
-  <img src="https://media.giphy.com/media/YS6oHw6aRGU1BvHK6o/giphy.gif" width="80">
-  <img src="https://media.giphy.com/media/KBZBlH5bUjGfBwHzTv/giphy.gif" width="80">
-  <img src="https://media.giphy.com/media/Zg0xdlzEML7vJ7ZzBt/giphy.gif" width="80">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXB3OG40MTZqOGFldzBvbDRzcG5qdHZxaGFla2ExbzcxNXBpMmFibCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif" width="80">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzV0MGhoZnJmdHV2cDQyOWcyNWZheDBjcmppNnA4azM3MzFlczdneiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="80">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDE4Z2YxZzRreHI1bWo0MWhmc2k0ZzdqYnlydzQydzVmZzQ3aHkyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ROlbnsc7aCIL6Icq6h/giphy.gif" width="80">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWR1b2p3eHBzcTBsdTBjemgxYzBkazh5ZGp0bDRmZjIyaGg4ZW41ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Z3VgQu8hkVeB1bakS9/giphy.gif" width="80">
 </div>
-
----
-
-## 🧙‍♂️ Arsenal do Monarca das Sombras
 
 ### 🔮 Linguagens
 <div align="center">
-  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="100" title="Python">
-  <img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width="100" title="PHP">
-  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="100" title="JavaScript">
-  <img src="https://media.giphy.com/media/3oKIPzWv6eQwBF8Lc4/giphy.gif" width="100" title="TypeScript">
+  <img src="https://assets-v2.lottiefiles.com/a/62e02bc6-116f-11ee-aeb0-077c335b3c67/XpwfUikILP.gif" width="100" title="Python">
+  <img src="https://media.licdn.com/dms/image/v2/D5622AQGl6RjAtCbIbw/feedshare-shrink_800/feedshare-shrink_800/0/1681191300659?e=2147483647&v=beta&t=-l1SSej1QADc4hw-KvNm-U8MiXjTuHhOQI1QiKc3nDM" width="100" title="PHP">
+  <img src="https://miro.medium.com/v2/resize:fit:960/1*-tOldEbfjijxn9VqZeULqg.gif" width="100" title="JavaScript">
+  <img src="https://media.tenor.com/16OA1pbdWYYAAAAM/typehero-typescript.gif" width="100" title="TypeScript">
 </div>
 
 ### ⚔️ Frameworks
