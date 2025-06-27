@@ -1,7 +1,7 @@
 <!-- Cabeçalho Épico com GIF Animado -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=102b79"/>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=41428a&width=900&size=21&center=true&lines=⚡Wuotans⚡;I+am+from+Brazil;Be+welcome!" alt="Typing SVG"/> 
+  <img src="[https://readme-typing-svg.demolab.com?font=Iosevka&color=41428a&width=900&size=21&center=true&lines=⚡Wuotans⚡;I+am+from+Brazil;Be+welcome!](https://readme-typing-svg.demolab.com/?font=Iosevka&color=41428a&width=900&size=21&center=true&lines=%E2%9A%A1Wuotans%E2%9A%A1;I+am+from+Brazil;Be+welcome!)" alt="Typing SVG"/> 
 
 </div>
 <div align="center">
