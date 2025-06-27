@@ -1,5 +1,5 @@
 <!-- Cabeçalho Épico com GIF Animado -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=8fc3e3"/>
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=8fc3e3"/> -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=fefefe&center=true&vCenter=true&width=900&lines=⚡Wuotans⚡;Fullstack+e+DevOps;Seja+bem-vindo!" />
 </div>
@@ -80,39 +80,32 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW1tZ2F1YzR3dWl1bDNhZ2NtM2NxM2s4d3BnbzI4eGQwczB4aGxwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKsQ8UQ4l4LhG8o/giphy.gif" width="100" title="Windows">
 </div>
 
----
+<br></br>
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=fefefe&center=true&vCenter=true&width=900&lines=🏆 Projetos">
+</div>
+<div align="center">
+   
+    
+🔥 [Portfólio Matheus-Silva](https://github.com/wuotans/Matheus-Silva)<br>
+    <div align="center">[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
+    </div>
+    📜 Descrição <br>
+    *Portfólio pessoal com sistema de CI/CD integrado e design responsivo.*
+</div>
 
-## 🏆 Sistema de Dungeon (Projetos)
+<div align="center">
 
-### 🔥 [Portfólio Matheus-Silva](https://github.com/wuotans/Matheus-Silva)
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGc0bm5pZ2N5aGt0M3YwNWp1eWl5a3I1d3N1dGx1bGxqZDNpZzYxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2yP1jOv7eJ4W3vZx7C/giphy.gif" width="300" align="right">
+💰 [MoneyFlow](https://github.com/wuotans/MoneyFlow)
+    <div align="center">[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+    [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+    [![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)](https://airflow.apache.org/)
+    [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+    </div>
+    📜 Descrição <br>
+    *Sistema de gestão financeira com análise preditiva e relatórios automatizados.*
+</div>
 
-> **Portal do Monarca**  
-> React + Next.js + Docker  
-> *"A presença de um S-rank é sentida!"*
-
-<details>
-<summary>📜 Descrição da Missão</summary>
-Portfólio pessoal com sistema de CI/CD integrado e design responsivo. Demonstra habilidades e conquistas como caçador S-rank.
-</details>
-
----
-
-### 💰 [MoneyFlow](https://github.com/wuotans/MoneyFlow)
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGc0bm5pZ2N5aGt0M3YwNWp1eWl5a3I1d3N1dGx1bGxqZDNpZzYxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2yP1jOv7eJ4W3vZx7C/giphy.gif" width="300" align="left">
-
-> **Tesouro do Dragão**  
-> Python + Pandas + Airflow + PostgreSQL  
-> *"O fluxo de mana precisa ser controlado!"*
-
-<details>
-<summary>📜 Descrição da Missão</summary>
-Sistema de gestão financeira com análise preditiva e relatórios automatizados. Monitora fluxos monetários como um dragão guardião.
-</details>
-
-<br clear="both">
-
----
 
 ### 🏬 [Gabriele Papelaria](https://github.com/wuotans/gabriele-papelaria-sistema)
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGc0bm5pZ2N5aGt0M3YwNWp1eWl5a3I1d3N1dGx1bGxqZDNpZzYxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2yP1jOv7eJ4W3vZx7C/giphy.gif" width="300" align="right">
