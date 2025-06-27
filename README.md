@@ -1,12 +1,11 @@
 <!-- Cabeçalho Épico com GIF Animado -->
 <!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=8fc3e3"/> -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=fefefe&center=true&vCenter=true&width=900&lines=⚡Wuotans⚡;Fullstack+e+DevOps;Seja+bem-vindo!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=798790&center=true&vCenter=true&width=900&lines=⚡Wuotans⚡;Fullstack+e+DevOps;Seja+bem-vindo!" />
 </div>
 
 <div align="center">
-  <!-- <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjZ0cXkxcDEwMHZneDlwbTBxbDRucXg5Z2JsaDd2OXdocXVxOGNsZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ramBbsu5kGc8AJHd1h/giphy.gif" width="30%" /> -->
-  <img src="https://media.tenor.com/Yz4wSJ_1NcgAAAAj/solo-leveling-lightning.gif" width="30%" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjZ0cXkxcDEwMHZneDlwbTBxbDRucXg5Z2JsaDd2OXdocXVxOGNsZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ramBbsu5kGc8AJHd1h/giphy.gif" width="30%" />
 </div>
 
 
@@ -22,7 +21,7 @@
 
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=fefefe&center=true&vCenter=true&width=900&lines=🔮 Linguagens">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=798790&center=true&vCenter=true&width=900&lines=🔮 Linguagens">
 </div>
 <div align="center">
   <img src="https://assets-v2.lottiefiles.com/a/62e02bc6-116f-11ee-aeb0-077c335b3c67/XpwfUikILP.gif" width="100" title="Python">
@@ -33,7 +32,7 @@
 
 <br></br>
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=fefefe&center=true&vCenter=true&width=900&lines=⚔️ Frameworks">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=798790&center=true&vCenter=true&width=900&lines=⚔️ Frameworks">
 </div>
 
 <div align="center">
@@ -48,7 +47,7 @@
 
 <br></br>
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=fefefe&center=true&vCenter=true&width=900&lines=🏰 Bancos de Dados">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=798790&center=true&vCenter=true&width=900&lines=🏰 Bancos de Dados">
 </div>
 
 <div align="center">
@@ -59,7 +58,7 @@
 
 <br></br>
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=fefefe&center=true&vCenter=true&width=900&lines=🛠️ Ferramentas">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=798790&center=true&vCenter=true&width=900&lines=🛠️ Ferramentas">
 </div>
 <div align="center">
   <img src="https://i.pinimg.com/originals/f5/5e/80/f55e8059ea945abfd6804b887dd4a0af.gif" width="80" title="Docker">
@@ -72,7 +71,7 @@
 
 <br></br>
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=fefefe&center=true&vCenter=true&width=900&lines=🖥️ Servidores">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=798790&center=true&vCenter=true&width=900&lines=🖥️ Servidores">
 </div>
 
 <div align="center">
@@ -163,7 +162,7 @@ Biblioteca universal para conexão com múltiplos bancos de dados com suporte a 
 
 <br>
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=fefefe&center=true&vCenter=true&width=900&lines=🧩 Stats">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=798790&center=true&vCenter=true&width=900&lines=🧩 Stats">
 </div>
 <div align="center">
 <br>
@@ -202,7 +201,7 @@ Biblioteca universal para conexão com múltiplos bancos de dados com suporte a 
 
 <br>
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=fefefe&center=true&vCenter=true&width=900&lines=📬 Contato">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=798790&center=true&vCenter=true&width=900&lines=📬 Contato">
 </div>
 <div align="center">
 <br>
