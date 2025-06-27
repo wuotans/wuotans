@@ -213,11 +213,12 @@ Biblioteca universal para conexão com múltiplos bancos de dados com suporte a 
   <a href="https://www.linkedin.com/in/matheus-patryck-5a1398106/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Matheus%20Patryck-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+  <div align="center">
+  <img src="https://i.pinimg.com/originals/3d/bd/c5/3dbdc5948be0594c2ac2920af9f7fad3.gif" width="900">
+  </div>
 </div>
 
-<div align="center">
-  <img src="https://i.pinimg.com/originals/3d/bd/c5/3dbdc5948be0594c2ac2920af9f7fad3.gif" width="900">
-</div>
+
 
 <!--
 <details>
