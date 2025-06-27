@@ -2,7 +2,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=102b79"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F70000&center=true&vCenter=true&width=900&lines=⚡Wuotans⚡;Dev+Fullstack+e+DevOps;Seja+bem-vindo!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=41428a&center=true&vCenter=true&width=900&lines=⚡Wuotans⚡;Dev+Fullstack+e+DevOps;Seja+bem-vindo!" />
 </div>
 
 <div align="center">
