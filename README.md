@@ -5,7 +5,8 @@
 </div>
 
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjZ0cXkxcDEwMHZneDlwbTBxbDRucXg5Z2JsaDd2OXdocXVxOGNsZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ramBbsu5kGc8AJHd1h/giphy.gif" width="30%" />
+  <!-- <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjZ0cXkxcDEwMHZneDlwbTBxbDRucXg5Z2JsaDd2OXdocXVxOGNsZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ramBbsu5kGc8AJHd1h/giphy.gif" width="30%" /> -->
+  <img src="https://media.tenor.com/Yz4wSJ_1NcgAAAAj/solo-leveling-lightning.gif" width="30%" />
 </div>
 
 
@@ -158,8 +159,6 @@ Biblioteca universal para conexão com múltiplos bancos de dados com suporte a 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wuotans&layout=compact&font=Iosevka&langs_count=16&theme=dark" width="22%">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wuotans&theme=dark" width="22%">
 </div> -->
-
-
 
 
 <br>
